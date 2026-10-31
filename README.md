@@ -36,12 +36,47 @@
   <img src="assets/gameplay.gif" width="820" alt="FoxTrot gameplay: arrows scroll up to the line, each hit lands a SICK!! and the combo counts up">
 </p>
 
+## New in 4.5.5: Endless mode
+
+How long can you last? Endless plays random songs back to back until you fail: FNF, Clone Hero or both, at the difficulty you pick.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/endless-picker.png" alt="The Endless screen: pick FNF, Clone Hero or both and a difficulty, next to the all-time board ranked by songs survived"><br>
+      <b>Pick your pool, then go</b><br>
+      Its own hub leaderboards for each pool and difficulty, all time and this week. You're ranked by songs survived, then score.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/endless-results.png" alt="An Endless run's results: 13 songs survived, the total score, and every song played with its score and accuracy"><br>
+      <b>Every song you survived</b><br>
+      The results show how far you got, your total, and each song's score, accuracy and misses.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/endless-cut.png" alt="Mid-run on a guitar song: a MAX HEALTH -5% banner, and the lost part of the health bar greyed out"><br>
+      <b>It gets harder</b><br>
+      Every 5 songs your max health drops 5%, down to 15%. The lost part greys out on the health bar.
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <ul>
+        <li>Score and health carry over, with crossfades between songs.</li>
+        <li>No countdown or results in between: the next song just comes in.</li>
+        <li>Find it on the song select's <b>Runs</b> row, next to the Weekly.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## What is FoxTrot?
 
 FoxTrot is a full rhythm game. Hit the notes as they reach the line, keep your combo going and climb the boards.
 
 - **FNF and Clone Hero, side by side.** Four-lane Friday Night Funkin' songs with the opponent singing back, and five-fret Clone Hero / YARG guitar songs with Star Power and sustains.
 - **App or Minecraft, your pick.** The desktop app runs on its own on Windows and Linux. The mod puts the same game inside Minecraft. Both play together online through the FoxTrot Hub: shared leaderboards, versus, friends and chats.
+- **Runs to chase.** The Weekly's new set of songs every week, and Endless: random songs back to back until you fail.
 - **Song mechanics from FNF mods**, with a level for every taste: Off, Relaxed, On or Expert.
 - **Free to play.** Cosmetics come from the shop for Tickets, which you win by playing.
 
