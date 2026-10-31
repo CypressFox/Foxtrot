@@ -1,0 +1,37 @@
+{
+  "homepage": "https://github.com/SnowberriFox/Foxtrot-Updates/releases",
+  "promos": {
+    "1.21.1-latest": "4.5.4",
+    "1.21.1-recommended": "4.5.4"
+  },
+  "1.21.1": {
+    "4.5.4": "FoxTrot 4.5.4: a chart maker in the app with hub uploads that wait for approval, screen sharing in voice calls (the FoxTrot window only), Indie Cross's Bad Time with its real orange and blue bones and attacks, retuned mechanics (the pendulum at the mod's window, a much harsher Expert), menu animations, Arrows or Circles, Discord activity, and spectating fixes. Plays with 4.2.2 to 4.5.3.",
+    "4.5.3": "FoxTrot 4.5.3: the Weekly - a back-to-back chart of 4 to 6 songs with crossfades and score and health carried over, plus a weekly leaderboard, top 3 win Tickets every Monday - scores scaled by the mechanics level (Off x0.7 to Expert x1.25), noise suppression in voice calls, patch notes in the game, and fixes for scores that didn't save and Windows file pickers. Plays with 4.2.2 to 4.5.2; update servers too for versus.",
+    "4.5.2": "FoxTrot 4.5.2: voice calls in the app's chats, emoji (any emoji as a reaction too), pictures, score cards and \"can you beat it?\" challenges, a message dingle, the star power key counting as a strum, a sort for the song lists, Clone Hero songs with .opus music in the app, and songs in Japanese-named folders playing again. Plays with 4.2.2 to 4.5.1.",
+    "4.5.1": "FoxTrot 4.5.1: fixes for Endless (D-Sides), Death Toll's extra notes and Monochrome's thorn bar covering your arrows, rebindable note-speed keys, profile pictures up to 20 MB, and the hub saying what went wrong instead of HTTP 500. Plays with 4.2.2 to 4.5.0.",
+    "4.5.0": "FoxTrot 4.5.0: the app now draws on your graphics card (OpenGL) - smoother everywhere, and Hypno's Lullaby's live stage costs next to nothing, with an automatic fallback if your drivers can't - plus profile pictures: any picture or GIF instead of your Minecraft head, in the app and in Minecraft. Plays with 4.2.2 to 4.4.1.",
+    "4.4.1": "FoxTrot 4.4.1: Hypno's Lullaby's live stage costs the app a fraction of the CPU it did (smooth at 1080p), and the game in the background is quieter. Plays with 4.2.2 to 4.4.0.",
+    "4.4.0": "FoxTrot 4.4.0: chats with your friends - DMs, group chats, reactions and GIFs, in the app and in Minecraft (Y) - plus one Settings page with search, and an FPS counter and stats for nerds (F3). Plays with 4.2.2 to 4.3.1.",
+    "4.3.1": "FoxTrot 4.3.1: Hypno's Lullaby follows the game - notes and HUD hide in its cutscenes, the Hypno UI is just the game's look, the game comes from the hub for allowed accounts, and credits with a link to support the team. Plays with 4.2.2 to 4.3.0.",
+    "4.3.0": "FoxTrot 4.3.0: Hypno's Lullaby live - the game's own stages running behind your notes if you have the game (Live stage in the app's settings), the Hypno UI with the game's HUD and Unown for allowed accounts, and Lanes at Classic, Middle or Right. Plays with 4.2.2 to 4.2.7.",
+    "4.2.7": "FoxTrot 4.2.7: Safety Lullaby and Monochrome drawn by the real game for allowed accounts, with Red's jumpscares and the eyes over your notes like in the game. Plays with 4.2.2 to 4.2.6.",
+    "4.2.6": "FoxTrot 4.2.6: native arrows for Hypno's Lullaby songs (the game's own notes, a toggle in the song's settings) and Chimera drawn by the real game for allowed accounts. Plays with 4.2.2 to 4.2.5.",
+    "4.2.5": "FoxTrot 4.2.5: the app picks your sound output and sound system (no more silent FoxTrot when PulseAudio and PipeWire clash), and Safety Lullaby and Monochrome drawn by the real game for allowed accounts. Plays with 4.2.2 to 4.2.4.",
+    "4.2.4": "FoxTrot 4.2.4: Hypno's Lullaby plays like the real game - Safety Lullaby's pendulum on the game's own timing (3/4 stretch included) and Monochrome's Unown typing with its max-health rule. Plays with 4.2.2 and 4.2.3.",
+    "4.2.3": "FoxTrot 4.2.3: a much stricter Hypno's Lullaby pendulum (±80 ms, 5 ignored swings) and the daily bounty no longer says a song is \"not on this server\" when it is. Plays with 4.2.2.",
+    "4.2.2": "FoxTrot 4.2.2: mechanics levels (Off / Relaxed / On / Expert), Seek's Deltarune TP healing and the Knight's knife, backgrounds in the app, a stricter pendulum and a deeper whammy. Update the server and your game together.",
+    "4.2.1": "FoxTrot 4.2.1: Clone Hero songs on the hub's song library are for FoxTrot accounts now.",
+    "4.2.0": "FoxTrot 4.2.0 · Streaks: versus win streaks with bonus Tickets for breaking one, a Mechanics % on your results and career, and the Song Store asks before replacing songs you set up yourself.",
+    "4.1.0": "FoxTrot 4.1.0 · Star Power: Star Power and a whammy bar for Clone Hero songs, a Song Store to grab any song from the hub in game, a visual offset, Snowberri's bounty rerolls, and the Safety Lullaby pendulum back in time. Update the server and your game together.",
+    "4.0.0": "FoxTrot 4.0.0 · Anywhere: a desktop app that plays with Minecraft players through the hub, FoxTrot accounts (log in from the app, the website or in game), every screen redrawn, an offset finder, and fixes for spectate music, D-Sides, Bad Time and the Safety Lullaby pendulum. Update the server and your game together.",
+    "3.6.1": "FoxTrot 3.6.1: spectating plays the music and runs 3 s behind (holds show properly), Clone Hero sustains score as you hold them (no miss for letting go early), and the daily bounty is the hardest difficulty.",
+    "3.6.0": "FoxTrot 3.6.0 · Together: parties with a song queue, free-for-alls of up to 8, fight mode, spectating on any server, group pause, a daily bounty song and admin abuse events.",
+    "3.5.0": "FoxTrot 3.5.0 · Sets & Mythics: 22 new cosmetic sets (88 items) including five Mythics that react to your combo and the beat, a full-set flex on your career page, an 8-item shelf, and a new set every week.",
+    "3.4.0": "FoxTrot 3.4.0 · The Mixer: a new pause screen with your lanes still showing, a volume mixer (FNF vocals get their own slider), and - / = to change the music mid-song (note speed moves to [ / ]).",
+    "3.3.0": "FoxTrot 3.3.0 · The Shop: earn Tickets as you play and spend them on lane skins, combo glows, effects and career page looks - plus the combo glow on FNF songs.",
+    "3.2.0": "FoxTrot 3.2.0 · Friends: friends and who's online, versus against anyone on any server (or from singleplayer), a rival side for Clone Hero, middlescroll, offset in the settings, and the song library on the hub.",
+    "3.1.1": "FoxTrot 3.1.1: FoxTrot has its own key now (U, or bind Open FoxTrot in Controls), so it opens without PokéShift too.",
+    "3.1.0": "FoxTrot 3.1.0 · Career: career pages, lifetime stats and badges, versus clears on the boards, and the FoxTrot Hub (one leaderboard across every server).",
+    "3.0.0": "FoxTrot 3.0.0: PokéRhythm is its own mod now (and works without PokéShift). Your songs, scores and settings come with it."
+  }
+}
