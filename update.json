@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Foxtrot-Updates/releases",
   "promos": {
-    "1.21.1-latest": "4.5.6",
-    "1.21.1-recommended": "4.5.6"
+    "1.21.1-latest": "4.5.7",
+    "1.21.1-recommended": "4.5.7"
   },
   "1.21.1": {
+    "4.5.7": "FoxTrot 4.5.7: 3 skips per Endless run (shown on the results and boards), an 808 beat for every tutorial lesson made from its notes, lessons that teach instead of killing you (the fear bar), and Clone Hero's Guitar Co-op as a part (songs like Metallica's \"One\" have guitar again). Plays with 4.2.2 to 4.5.6.",
     "4.5.6": "FoxTrot 4.5.6: a tutorial (38 short lessons for the 4K basics, every mechanic and 5-fret guitar), a startup splash, Endless gets a \"next up\" card with a warning and 3 s more when you swap to 5 frets, a run clock, a Mechanics warning and drains that stop at 5%, Safety Lullaby's own game over, importing your own Friday Night Funkin', Reinstall charts & mechanics, unlimited ghost taps, everything fits at GUI scale 4, and moderators can play a chart before judging it. Plays with 4.2.2 to 4.5.5.",
     "4.5.5": "FoxTrot 4.5.5: Endless mode (random songs until you fall, max health shrinking every 5 songs, with its own leaderboards), Safety Lullaby like the game (Hypno's pendulum, her trance, the lyrics), the chart maker gets Detect BPM, Auto-chart, a Mechanics tab and your own lane keys back, screen sharing can share your game's sound, Monochrome fixes, and a new fox icon. Plays with 4.2.2 to 4.5.4.",
     "4.5.4": "FoxTrot 4.5.4: a chart maker in the app with hub uploads that wait for approval, screen sharing in voice calls (the FoxTrot window only), Indie Cross's Bad Time with its real orange and blue bones and attacks, retuned mechanics (the pendulum at the mod's window, a much harsher Expert), menu animations, Arrows or Circles, Discord activity, and spectating fixes. Plays with 4.2.2 to 4.5.3.",
