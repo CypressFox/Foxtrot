@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/Foxtrot-Updates/releases",
   "promos": {
-    "1.21.1-latest": "4.5.9",
-    "1.21.1-recommended": "4.5.9"
+    "1.21.1-latest": "4.6.0",
+    "1.21.1-recommended": "4.6.0"
   },
   "1.21.1": {
+    "4.6.0": "FoxTrot 4.6.0: every FNF engine. Psych Engine mods run their own Lua and HScript (modcharts, sprites, cameras, lyrics, shaders), Codename Engine and V-Slice songs play, and mod scripts are locked down. Trinity in full: its cutscenes, window tricks, VICTORY, credits roll and game overs. Checkpoint retries count on the boards, Hypno's hypnosis swirl, and Chimera without its art fixed. Plays with 4.2.2 to 4.5.9.",
     "4.5.9": "FoxTrot 4.5.9: mod stages & characters (a mod's own stage, singers and camera behind your notes, from hub-gated art), the window dance (Trinity moves the real game window, or plays inside FoxTrot on Wayland), and Codename mods like Sleepy's Bikini Horrors playing like their own scripts: shoot, ghost and horror notes, new bonus and invisible notes, HealthDrain, Scroll Speed Change and 3 to 6 singers. Plays with 4.2.2 to 4.5.8.",
     "4.5.8": "FoxTrot 4.5.8: Tricky's Expurgation mechanics (halo notes, warning notes and distractions), an Accessibility section in Settings, Endless at one note speed with every song before a repeat and your max health shown, Hypno's own pendulum swinging and the game's ending in Safety Lullaby, characters holding their pose through holds, picking your FNF install, and - / = moving music and vocals together. Plays with 4.2.2 to 4.5.7.",
     "4.5.7": "FoxTrot 4.5.7: no more 5-minute pause limit on solo songs, 3 skips per Endless run (shown on the results and boards), an 808 beat for every tutorial lesson made from its notes, lessons that teach instead of killing you (the fear bar), and Clone Hero's Guitar Co-op as a part (songs like Metallica's \"One\" have guitar again). Plays with 4.2.2 to 4.5.6.",
