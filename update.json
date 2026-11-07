@@ -2,7 +2,11 @@
   "homepage": "https://github.com/SnowberriFox/Foxtrot-Updates/releases",
   "promos": {
     "1.21.1-latest": "4.6.2",
-    "1.21.1-recommended": "4.6.2"
+    "1.21.1-recommended": "4.6.2",
+    "app-recommended": "4.6.5"
+  },
+  "app": {
+    "4.6.5": "FoxTrot 4.6.5: the app gets its own update line, so Windows' Update now comes up for app-only releases too. The mod stays on 4.6.2."
   },
   "1.21.1": {
     "4.6.2": "FoxTrot 4.6.2: 260 achievements on the hub (the same list in the app, Minecraft and your profile; they pay Tickets, the big ones a cosmetic and a badge), ported mods' own achievements, and ported songs in the mod's own UI (its strums, note skin and HUD) with a Custom UI chip per song. Plays with 4.2.2 to 4.6.1.",
