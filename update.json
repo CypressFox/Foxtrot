@@ -1,17 +1,19 @@
 {
   "homepage": "https://github.com/CypressFox/Foxtrot/releases",
   "promos": {
-    "1.21.1-latest": "4.7.2",
-    "1.21.1-recommended": "4.7.2",
-    "app-recommended": "4.7.2"
+    "1.21.1-latest": "4.7.3",
+    "1.21.1-recommended": "4.7.3",
+    "app-recommended": "4.7.3"
   },
   "app": {
+    "4.7.3": "FoxTrot 4.7.3: Sonic.exe Unofficial fixed up (80+ player-reported bugs: the mod's videos, its colours, backgrounds in place, its mechanics), the Hatsune Miku Mod's own stages, a Note size in mod songs setting (FoxTrot, Medium or Mod; no more huge notes), and patch notes with every fix folded underneath. Plays with 4.2.2 to 4.7.3.",
     "4.7.2": "FoxTrot 4.7.2: F-Slice - V-Slice mods' own stages, characters and scripts behind your notes (Silly Billy, QT Rewired), Adobe Animate animations, a per-song Stage on/off switch, Sonic.exe Unofficial properly (its stages, camera, opponent singing, and Prey's running minigame), credits cards for every pack, and fixes for scroll-speed events and old charts. Plays with 4.2.2 to 4.7.2.",
     "4.7.1": "FoxTrot 4.7.1: updates come straight from the CypressFox repos.",
     "4.7.0": "FoxTrot 4.7.0: seeded Endless (share a run's seed code or type one in to play the same songs in the same order) and a daily run everyone plays, with its own board. Includes 4.6.5-1's Trinity fixes.",
     "4.6.5": "FoxTrot 4.6.5: the app gets its own update line, so Windows' Update now comes up for app-only releases too. The mod stays on 4.6.2."
   },
   "1.21.1": {
+    "4.7.3": "FoxTrot 4.7.3: Sonic.exe Unofficial fixed up (80+ player-reported bugs: the mod's videos, its colours, backgrounds in place, its mechanics), the Hatsune Miku Mod's own stages, a Note size in mod songs setting (FoxTrot, Medium or Mod; no more huge notes), and patch notes with every fix folded underneath. Plays with 4.2.2 to 4.7.3.",
     "4.7.2": "FoxTrot 4.7.2: F-Slice - V-Slice mods' own stages, characters and scripts behind your notes (Silly Billy, QT Rewired), Adobe Animate animations, a per-song Stage on/off switch, Sonic.exe Unofficial properly (its stages, camera, opponent singing, and Prey's running minigame), credits cards for every pack, and fixes for scroll-speed events and old charts. Plays with 4.2.2 to 4.7.2.",
     "4.7.1": "FoxTrot 4.7.1: updates now come straight from the CypressFox repos (safer than relying on GitHub's redirect from the old names). Plays with 4.2.2 to 4.7.1.",
     "4.7.0": "FoxTrot 4.7.0: seeded Endless (every run shows a seed code; type one in to play the exact same songs in the same order, unranked) and a daily run everyone plays, with its own Daily board, plus Trinity's fullscreen and heart-rift fixes. Plays with 4.2.2 to 4.6.2; typed seeds and the daily on a server need 4.7.0 there. Hub owners: redeploy the hub.",
