@@ -3,9 +3,11 @@
   "promos": {
     "1.21.1-latest": "4.7.4",
     "1.21.1-recommended": "4.7.4",
-    "app-recommended": "4.7.4"
+    "app-recommended": "4.7.4",
+    "app-nightly": "4.7.5-nightly.1"
   },
   "app": {
+    "4.7.5-nightly.1": "FoxTrot 4.7.5 nightly 1 (test build): Silly Billy's health fills with your hits again, Godspeed stops shaking, Hollow's notes fade in the dark, Found You's Metal Sonic stops blinking out, and the chat box tells you when your downloaded songs have updates.",
     "4.7.4": "FoxTrot 4.7.4: FoxTrot in your browser (the hub's new Play page), Silly Billy like the real mod (he sings every note, his notes on the mirror behind him), QT Rewired's Go Go Go, another round of Sonic.exe Unofficial fixes, and a Nightly builds switch (Settings > Updates) for testers. Plays with 4.2.2 to 4.7.4.",
     "4.7.3": "FoxTrot 4.7.3: Sonic.exe Unofficial fixed up (80+ player-reported bugs: the mod's videos, its colours, backgrounds in place, its mechanics), the Hatsune Miku Mod's own stages, a Note size in mod songs setting (FoxTrot, Medium or Mod; no more huge notes), and patch notes with every fix folded underneath. Plays with 4.2.2 to 4.7.3.",
     "4.7.2": "FoxTrot 4.7.2: F-Slice - V-Slice mods' own stages, characters and scripts behind your notes (Silly Billy, QT Rewired), Adobe Animate animations, a per-song Stage on/off switch, Sonic.exe Unofficial properly (its stages, camera, opponent singing, and Prey's running minigame), credits cards for every pack, and fixes for scroll-speed events and old charts. Plays with 4.2.2 to 4.7.2.",
