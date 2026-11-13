@@ -4,9 +4,10 @@
     "1.21.1-latest": "4.7.4",
     "1.21.1-recommended": "4.7.4",
     "app-recommended": "4.7.4",
-    "app-nightly": "4.7.5-nightly.7"
+    "app-nightly": "4.7.5-nightly.8"
   },
   "app": {
+    "4.7.5-nightly.8": "FoxTrot 4.7.5 nightly 8: Circles keep your lane skin's look, hover an achievement in the chat to see how it's unlocked, no more opening on just the warm-up song, middlescroll follows a song's own Lanes, and custom UIs keep the opponent's lane backdrop behind their arrows.",
     "4.7.5-nightly.7": "FoxTrot 4.7.5 nightly 7 (includes nightly 6): Deception's Requital in one piece, Yourself's cameras, Manual Blast's rings and glitch notes, Seek's TP bar at the side, a Software renderer crash fixed, and speed-ups for Psych mods and both renderers.",
     "4.7.5-nightly.5": "FoxTrot 4.7.5 nightly 5 (test build): Avery's Sonic.exe Unofficial batch - Chaos's camera, Hellbent's notes behind the chair, Final Escape's Xeno and half-face part, Pre-Design's lighting, Yourself's mirror, the mod's own girlfriend in Too Slow and Shocker, Malediction's barbed wire, Prey's speed-up, You Can't Run's ending and brighter static notes - plus a Combo ding setting.",
     "4.7.5-nightly.4": "FoxTrot 4.7.5 nightly 4 (test build): the five Mythics are now whole ten-piece sets, and the Mythic Spotlight sells a whole set each week. Look is a dropdown with Pixel notes and Pixel text, and pixel text is sharp now. Songs show when their stage is still downloading, and a new Hit ratings setting hides the SICK!! pop-ups.",
