@@ -1,12 +1,13 @@
 {
   "homepage": "https://github.com/CypressFox/Foxtrot/releases",
   "promos": {
-    "1.21.1-latest": "4.7.5",
-    "1.21.1-recommended": "4.7.5",
-    "app-recommended": "4.7.6",
-    "app-nightly": "4.7.5-nightly.8"
+    "1.21.1-latest": "5.0.0",
+    "1.21.1-recommended": "5.0.0",
+    "app-recommended": "5.0.0",
+    "app-nightly": "5.0.0"
   },
   "app": {
+    "5.0.0": "FoxTrot 5.0.0: Season 2 - The Encore Tour is here! Fresh scoreboards and career score for the new season (your Season 1 career score stays on your profile as a badge), separate 4K and 5K careers, Ranked with pp, the Encore Tour pass, nine new mods with their own stages (and a new one every fortnight), and a quick tour of everything new the first time you start. Older builds can't go online any more, so update now.",
     "4.7.6": "FoxTrot 4.7.6: Season 2 arrives Saturday 21 November! A countdown strip across the top of every menu, the final push (every play counts double for career and Tickets until Season 1 ends), Endless runs pay 250 Tickets every 5 songs, +500 Tickets for reading the patch notes, and Check for updates in Settings. Servers are down Sat 21 Nov 12:00-2:00 pm (Sydney) for the switch. Plays with 4.2.2 to 4.7.6.",
     "4.7.5": "FoxTrot 4.7.5: every nightly fix together - the five Mythics as whole ten-piece sets (the Spotlight sells a set a week), all 120 shop items redrawn smooth, a Look dropdown with Pixel notes and Pixel text, about 50 more Sonic.exe Unofficial fixes, Seek's TP bar at the side, Hit ratings and Combo ding settings, and hover an achievement in chat to see how it's unlocked. Plays with 4.2.2 to 4.7.5.",
     "4.7.4": "FoxTrot 4.7.4: FoxTrot in your browser (the hub's new Play page), Silly Billy like the real mod (he sings every note, his notes on the mirror behind him), QT Rewired's Go Go Go, another round of Sonic.exe Unofficial fixes, and a Nightly builds switch (Settings > Updates) for testers. Plays with 4.2.2 to 4.7.4.",
@@ -24,6 +25,7 @@
     "4.6.5": "FoxTrot 4.6.5: the app gets its own update line, so Windows' Update now comes up for app-only releases too. The mod stays on 4.6.2."
   },
   "1.21.1": {
+    "5.0.0": "FoxTrot 5.0.0: Season 2 - The Encore Tour. Fresh scoreboards and career score, separate 4K and 5K careers, Ranked with pp, the Encore Tour pass and nine new mods. Update the app and the mod together.",
     "4.7.5": "FoxTrot 4.7.5: every nightly fix together - the five Mythics as whole ten-piece sets (the Spotlight sells a set a week), all 120 shop items redrawn smooth, a Look dropdown with Pixel notes and Pixel text, about 50 more Sonic.exe Unofficial fixes, Seek's TP bar at the side, Hit ratings and Combo ding settings, and hover an achievement in chat to see how it's unlocked. Plays with 4.2.2 to 4.7.5.",
     "4.7.4": "FoxTrot 4.7.4: FoxTrot in your browser (the hub's new Play page), Silly Billy like the real mod (he sings every note, his notes on the mirror behind him), QT Rewired's Go Go Go, another round of Sonic.exe Unofficial fixes, and a Nightly builds switch (Settings > Updates) for testers. Plays with 4.2.2 to 4.7.4.",
     "4.7.3": "FoxTrot 4.7.3: Sonic.exe Unofficial fixed up (80+ player-reported bugs: the mod's videos, its colours, backgrounds in place, its mechanics), the Hatsune Miku Mod's own stages, a Note size in mod songs setting (FoxTrot, Medium or Mod; no more huge notes), and patch notes with every fix folded underneath. Plays with 4.2.2 to 4.7.3.",
